@@ -85,3 +85,8 @@ if operation == "square root"
     first_number= gets.chomp.to_i
     puts "The solution is: #{Math.sqrt(first_number)}"
 end
+
+#checks for average of numbers
+if operation == "average"
+    #code here
+end
